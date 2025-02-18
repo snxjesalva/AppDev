@@ -65,8 +65,10 @@ git push origin main
 public class Activity1 {
     public static void main(String[] args) {
         System.out.println("List of Students:");
+     
         // Collaborators: Add your names below using the format:
         // System.out.println("Your Full Name");
+    
         System.out.println("Juan Crus - BSIT 2C");
         System.out.println("John Doe - BSIT 2D");
         System.out.println("Jane Smith - BSIT 2A");
