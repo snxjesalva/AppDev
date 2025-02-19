@@ -52,7 +52,7 @@ Select JUNTABIOSGIT/AppDev as the base and their branch (using your last name) a
 Create the PR and mention their full name.
 
 **10. The Repository owner (PROF) will Review and Merge the PRs**
-On gitHub repository by clicking the Pull Requests tab.
+On gitHub repository, click the Pull Requests tab.
 Review each PR to ensure they followed the instructions.
 Merge the PR if correct. Request changes if needed.
 
