@@ -5,8 +5,12 @@ public class StudentNames {
         System.out.println("Heart Janelle D. Serrano - BSIT 2D");
         System.out.println("Gabrielle Daniela P. Miranda - BSIT 2C");
         System.out.println("Leonardo M. Sayas - BSIT 2D");
+
+        System.out.println("John Cally H. Mata - BSIT 2D");
+
         System.out.println("Kennedy C. Artiaga - BSIT 2D");
         System.out.println("Jomar R.Bendoy - BSIT 2D");
+
 
         // Students, add your names below using the format:
         // System.out.println("Your Name - SECTION");
