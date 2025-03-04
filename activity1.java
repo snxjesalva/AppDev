@@ -1,6 +1,9 @@
 
 public class StudentNames {
     public static void main(String[] args) {
+
+        System.out.println("Shane Mico J. Acal - BSIT 2C");
+
         System.out.println("List of Students:");
 
         System.out.println("Juffer Victor Alabado - BSIT 2D");
@@ -10,8 +13,6 @@ public class StudentNames {
         // System.out.println("Juam Dela Cruz - BSIT 2C");
 
 
-public class StudentNames {
-    public static void main(String[] args) {
 
         System.out.println("Ryan Paul P. Echon Jr. - BSIT 2C")
         // Students, add your names below using the format:
@@ -71,6 +72,7 @@ public class StudentNames {
 
 
         System.out.println("Marc Jamhire M. Pianar - BSIT 2C");
+
 
         // Students, add your names below using the format:
         // System.out.println("Your Name - SECTION");
