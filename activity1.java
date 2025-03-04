@@ -2,6 +2,8 @@
 public class StudentNames {
     public static void main(String[] args) {
 
+        System.out.println("Andrew B. Emnil - BSIT 2-C");
+
         System.out.println("Shane Mico J. Acal - BSIT 2C");
 
         System.out.println("List of Students:");
@@ -72,6 +74,7 @@ public class StudentNames {
 
 
         System.out.println("Marc Jamhire M. Pianar - BSIT 2C");
+
 
 
         // Students, add your names below using the format:
