@@ -61,10 +61,14 @@ public class StudentNames {
         System.out.println("Gabrielle Daniela P. Miranda - BSIT 2C");
         System.out.println("Leonardo M. Sayas - BSIT 2D");
 
+        System.out.println(" Bilmar M. Maglipon Jr. - BSIT 2D");
+
+
         System.out.println("John Paul Peterseph C. Credo - BSIT 2C");
 
 
         System.out.println("Stefanny D. Tapia - BSIT 2D");
+
         // Students, add your names below using the format:
         // System.out.println("Your Name - SECTION");
         // Example: 
