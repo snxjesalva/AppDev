@@ -6,7 +6,7 @@ public class StudentNames {
         // Students, add your names below using the format:
         // System.out.println("Your Name - SECTION");
         // Example:
-        // System.out.println("John Michael Berte - BSIT 2C");
+        System.out.println("John Michael Berte - BSIT 2C");
         System.out.println("Andrew B. Emnil - BSIT 2-C");
         System.out.println("Shane Mico J. Acal - BSIT 2C");
         System.out.println("List of Students:");
@@ -18,16 +18,7 @@ public class StudentNames {
         System.out.println("Heart Janelle D. Serrano - BSIT 2D");
         System.out.println("Jypher Lamac - BSIT 2C");
         System.out.println("John Martin E. Garnica - BSIT 2C");
-
-        // Students, add your names below using the format:
-        // System.out.println("Your Name - SECTION");
-        // Example:
-        // System.out.println("Juam Dela Cruz - BSIT 2C");
-
-
-
         System.out.println("List of Students:");
-
         System.out.println(" Ralph Jastine V. Villon - BSIT 2C");
         System.out.println("Sandara L. Panis - BSIT 2D");
         System.out.println("Eisen Dichoso - BSIT 2D");
