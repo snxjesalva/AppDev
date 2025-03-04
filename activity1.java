@@ -63,6 +63,9 @@ public class StudentNames {
 
         System.out.println("Jomar R.Bendoy - BSIT 2D");
 
+        System.out.println("Melanie Rose E. De Jesus - BSIT 2C");
+
+
         System.out.println("Ceejay B. Garcia - BSIT 2C");
 
 
@@ -108,6 +111,7 @@ public class StudentNames {
 
 
         System.out.println("Stefanny D. Tapia - BSIT 2D");
+
 
 
 
