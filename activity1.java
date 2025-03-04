@@ -61,6 +61,9 @@ public class StudentNames {
         System.out.println("Gabrielle Daniela P. Miranda - BSIT 2C");
         System.out.println("Leonardo M. Sayas - BSIT 2D");
 
+        System.out.println("John Zedrick L. Bondoc - BSIT 2D");
+
+
         System.out.println("Denn Mark G. Respondo - BSIT 2D");
 
 
@@ -71,6 +74,7 @@ public class StudentNames {
 
 
         System.out.println("Stefanny D. Tapia - BSIT 2D");
+
 
 
         // Students, add your names below using the format:
