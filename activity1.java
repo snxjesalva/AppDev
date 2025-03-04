@@ -2,6 +2,13 @@
 public class StudentNames {
     public static void main(String[] args) {
 
+        System.out.println("John Michael Berte - BSIT 2C");
+        // Students, add your names below using the format:
+        // System.out.println("Your Name - SECTION");
+        // Example:
+        // System.out.println("John Michael Berte - BSIT 2C");
+
+
         System.out.println("Andrew B. Emnil - BSIT 2-C");
 
         System.out.println("Shane Mico J. Acal - BSIT 2C");
@@ -176,6 +183,7 @@ public class StudentNames {
 
 
     System.out.println("Stefany Domingo Tapia - BSIT 2D");
+
 
 
 
