@@ -1,6 +1,9 @@
 
 public class StudentNames {
     public static void main(String[] args) {
+
+        System.out.println("Christian Said E. Banaag - BSIT 2C");
+
         System.out.println("Sandara L. Panis - BSIT 2D");
         System.out.println("Eisen Dichoso - BSIT 2D");
         System.out.println("Heart Janelle D. Serrano - BSIT 2D");
@@ -80,6 +83,7 @@ public class StudentNames {
 
 
     System.out.println("Stefany Domingo Tapia - BSIT 2D");
+
 
 
     }
