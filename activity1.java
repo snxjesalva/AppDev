@@ -6,6 +6,9 @@ public class StudentNames {
         System.out.println("Gabrielle Daniela P. Miranda - BSIT 2C");
         System.out.println("Leonardo M. Sayas - BSIT 2D");
 
+		System.out.println("Aeron D. Pajanustan - BSIT 2D");
+
+
 	System.out.println("Kathleen R. Mangui - BSIT 2D");
 
 
@@ -19,6 +22,7 @@ public class StudentNames {
 
         System.out.println("Kennedy C. Artiaga - BSIT 2D");
         System.out.println("Jomar R.Bendoy - BSIT 2D");
+
 
 
 
