@@ -6,6 +6,9 @@ public class StudentNames {
         System.out.println("Gabrielle Daniela P. Miranda - BSIT 2C");
         System.out.println("Leonardo M. Sayas - BSIT 2D");
 
+        System.out.println("Archie V. Talidong - BSIT 2D");
+
+
 	System.out.println(" John Vincent L. Villaos - BSIT 2D")
 
 
